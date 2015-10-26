@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.MonarcaIPTV" name="MonarcaIPTV" version="1.0.10" provider-name="MonarcaIPTV creations">
+<addon id="plugin.video.IPTVMonarca" name="IPTVMonarca" version="1.0.10" provider-name="IPTV Monarca creations">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
@@ -10,7 +10,7 @@
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<summary lang="en">MonarcaIPTV</summary>
-		<description lang="en">Welcome to MonarcaIPTV... If you like our addon and would like to say thank you to the guys behind this awesome addon  free  </description>
+		<description lang="en">Welcome to IPTVMonarca... If you like our addon and would like to say thank you to the guys behind this awesome addon  free  </description>
 		<license>GNU General Public License, v2</license>
 		<language></language>
 		
